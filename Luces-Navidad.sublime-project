@@ -1,0 +1,35 @@
+{
+    "folders":
+    [
+        {
+            "path": "Documentacion",
+            "name": "Documentación Adicional",
+            "folder_exclude_patterns": [".hgignore"]
+
+        },
+        {
+            "path": "Codigo-fuente",
+            "name": "Código fuente",
+            "file_exclude_patterns": [
+                "*.as",
+                "*cmf",
+                "*.cof",
+                "*.d",
+                "funclist",
+                "*.hex",
+                "*.hxl",
+                "*.lst",
+                "*.obj",
+                "*.p1",
+                "*.pre",
+                "*.rlf",
+                "*.sdb",
+                "*.sym"
+                ]
+        }
+    ],
+    "settings":
+    {
+        "spaces": 4
+    }
+}

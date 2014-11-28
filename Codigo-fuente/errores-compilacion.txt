@@ -1,0 +1,26 @@
+(1273) Omniscient Code Generation not available in Free mode (warning)
+programa-principal.c: 68: (1385) variable "RD2" is deprecated (declared at programa-principal.c:68) (warning)
+programa-principal.c: 68: (1385) variable "_RD2" is deprecated (declared at /opt/microchip/xc8/v1.32/include/pic18f4550.h:10557) (warning)
+
+Memory Summary:
+    Program space        used   C78h (  3192) of  8000h bytes   (  9.7%)
+    Data space           used    14h (    20) of   800h bytes   (  1.0%)
+    Configuration bits   used     7h (     7) of     7h words   (100.0%)
+    EEPROM space         used     0h (     0) of   100h bytes   (  0.0%)
+    ID Location space    used     0h (     0) of     8h bytes   (  0.0%)
+    Data stack space     used     0h (     0) of   7A0h bytes   (  0.0%)
+
+Compilation stage times:
+Preprocessor               0.45
+Parser                     0.04
+Code generator             0.95
+Assembler                  0.04
+Linker                     0.07
+Output file conversion     0.03
+TOTAL                      1.59 secs
+Running this compiler in PRO mode, with Omniscient Code Generation enabled,
+often produces code which is 60% smaller and at least 400% faster than in
+Free mode. The MPLAB XC8 PRO compiler output for this code could be
+1909 bytes smaller and run 4 times faster.
+See http://www.microchip.com for more information.
+

@@ -1,0 +1,18 @@
+syntax: glob
+Codigo-fuente/funclist
+Codigo-fuente/l.obj
+Codigo-fuente/programa-principal.as
+Codigo-fuente/programa-principal.cmf
+Codigo-fuente/programa-principal.cof
+Codigo-fuente/programa-principal.d
+Codigo-fuente/programa-principal.hex
+Codigo-fuente/programa-principal.hxl
+Codigo-fuente/programa-principal.p1
+Codigo-fuente/programa-principal.pre
+Codigo-fuente/programa-principal.sdb
+Codigo-fuente/programa-principal.sym
+Codigo-fuente/startup.as
+Codigo-fuente/startup.lst
+Codigo-fuente/startup.obj
+Codigo-fuente/startup.rlf
+Luces-Navidad.sublime-workspace
