@@ -1,4 +1,12 @@
 
+https://blog.desdelinux.net/como-grabar-microcontroladores-pic-desde-linux-pk2cmd/
+
+es necesario instalar las dependencias build-essential y libusb++-dev
+$ apt install build-essential y libusb++-dev
+
+
+
+
 
 ###Compilar con xc8
 Para compilar el código con xc8 así:
