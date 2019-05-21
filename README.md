@@ -1,6 +1,7 @@
 README..md
 
-*Proyecto Electiva profesional II
+**Proyecto Electiva profesional II
+
 **Conmexiòn serial arduino y pic 18F4550
 
 vídeo de funcionamiento
